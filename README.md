@@ -1,5 +1,7 @@
 # A Star Pathfinding
 
+Live Demo: https://jonmarcello.ca/static/playground/a_star/index.html
+
 Ever want to find a path between two points while also avoiding obstacles?
 
 Well now you can!
