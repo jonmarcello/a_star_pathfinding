@@ -2,7 +2,7 @@ const gridCols = 15;
 const gridRows = 13;
 const grid = [];
 
-let selection = 0; // 0 = obstical, 1 = start, 2 = end
+let selection = 0; // 0 = obstacle, 1 = start, 2 = end
 let selectionName = 'obstacle';
 
 let startPos = null;
